@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppRTC/AppRTC.iml" filepath="$PROJECT_DIR$/AppRTC/AppRTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRTC/WebRTC.iml" filepath="$PROJECT_DIR$/WebRTC/WebRTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRTCSupport.iml" filepath="$PROJECT_DIR$/WebRTCSupport.iml" />
+    </modules>
+  </component>
+</project>
